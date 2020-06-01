@@ -7,16 +7,15 @@ body #wall #tag-2 {
   display: none;
 }
 
-/* Tag 3 -> 211 */
 
-div#wall div#tag-3.slick, .wicked{ /*222*/
+
+div#wall div#tag-3.slick, .wicked{
   display: none;
 }
 
-/* Tag 4 -> 200 */
 
-#wall .parent #tag-4 { /* 210 */
-  display: none;
+
+#wall .parent #tag-4 { 
 }
 
 /* Tag 5 -> 221 */
